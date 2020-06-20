@@ -1904,8 +1904,3 @@
 "UNITED STATES OF AMERICA (PACIFIC ISLANDS)","KOROR/W CAROLINE ISLANDS PI","91408","00914351","1961-1990","","Number of Years used to Calculate Normal","cm","30","","30","","30","","30","","30","","30","","30","","30","","30","","30","","30","","30","","-9999","2","-9999.9","2"
 "UNITED STATES OF AMERICA (PACIFIC ISLANDS)","YAP ISLAND/CAROLINE ISLANDS PI","91413","00914951","1961-1990","","Number of Years used to Calculate Normal","cm","30","","30","","30","","30","","30","","30","","30","","30","","30","","30","","30","","30","","-9999","2","-9999.9","2"
 "UNITED STATES OF AMERICA (PACIFIC ISLANDS)","TAFUNA/AMERICAN SAMOA PI","91765","00061705","1966-1990","","Number of Years used to Calculate Normal","cm","24","","24","","24","","25","","25","","25","","25","","25","","25","","25","","25","","25","","-9999","2","-9999.9","2"
-
-"footnoteSeqID","Footnote"
-"1","trace value for precipitation, rainfall, snowfall"
-"2","code for missing value"
-"3","code for value > 0.0 but < the smallest unit at the archived precision"
